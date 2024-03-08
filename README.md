@@ -12,7 +12,8 @@ class Abed:
 
     def say_hello(self):
         print(f'Greetings, fellow coders! I am a {self.role} dedicated to pushing the boundaries of {self.everything}.',
-              'My mission is to sculpt algorithms that not only solve problems but also unlock new dimensions of understanding.')
+              'My mission is to sculpt algorithms that not only solve problems',
+              'but also unlock new dimensions of understanding.')
 
     def showcase_projects(self):
         projects = [
