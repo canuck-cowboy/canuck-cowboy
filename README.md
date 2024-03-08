@@ -45,6 +45,11 @@ logic_tinkerer.say_hello()
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
+## Embedded Systems
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Tinkercad](https://img.shields.io/badge/Tinkercad-01BC88?style=for-the-badge&logo=tinkercad&logoColor=white)
+![Fritzing](https://img.shields.io/badge/Fritzing-7B0042?style=for-the-badge&logo=fritzing&logoColor=white)
+
 
 <!--
 **logictinkerer/logictinkerer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
