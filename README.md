@@ -5,19 +5,29 @@
 ```python
 class Abed:
     def __init__(self):
-        self.name = 'Abed Nassar'
+        self.everything = 'Computer Science'
         self.role = 'Computer Scientist'
-        self.passion = ['Algorithms', 'Data Structures', 'Computability Theory']
+        self.passion = ['Complexity Theory', 'Algorithms', 'Computability Theory']
+        self.github_url = 'https://github.com/logictinkerer/'
 
     def say_hello(self):
-          print(f'Greetings, fellow coders! I\'m {self.name}. Dedicated to pushing the boundaries of Computer Science,',
-          'my mission is to sculpt algorithms that not only solve problems but also unlock new dimensions of understanding.')
+        print(f'Greetings, fellow coders! I am a {self.role} dedicated to pushing the boundaries of {self.everything}.',
+              'My mission is to sculpt algorithms that not only solve problems but also unlock new dimensions of understanding.')
+
+    def showcase_projects(self):
+        projects = [
+            {'name': 'Arena', 'repo_suffix': 'Arena-Chat-App'},
+            {'name': 'Extremis', 'repo_suffix': 'Extremis'}
+        ]
+        print('\nHighlighted Projects:')
+        for project in projects:
+            print(f'- {project["name"]}: {self.github_url}{project["repo_suffix"]}')
 
 
 # Unleash logic_tinkerer
 logic_tinkerer = Abed()
 logic_tinkerer.say_hello()
-
+logic_tinkerer.showcase_projects()
 ```
 ## 🌐 My Tech Arsenal 
 
