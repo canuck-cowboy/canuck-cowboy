@@ -60,7 +60,7 @@ logic_tinkerer.say_hello()
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-
+![](https://komarev.com/ghpvc/?username=logictinkerer&label=PROFILE+VIEWS)
 
 
 <!--
