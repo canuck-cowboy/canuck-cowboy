@@ -1,5 +1,3 @@
-### Greetings, Code Enthusiasts! I'm Abed, the Logic Tinkerer 👋
-
 ### 💻 About Me
 
 ```python
