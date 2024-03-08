@@ -10,7 +10,9 @@ class Abed:
         self.passion = ["Algorithms", "Data Structures", "Computability Theory"]
 
     def say_hello(self):
-        print(f"Greetings, fellow coders! I'm {self.name}, Dedicated to pushing the boundaries of Computer Science, my mission is to sculpt algorithms that not only solve problems but also unlock new dimensions of understanding. 🌐✨")
+          print(f"Greetings, fellow coders! I'm {self.name}, Dedicated to pushing the boundaries of Computer Science, "
+          f"my mission is to sculpt algorithms that not only solve problems but also unlock new dimensions of understanding. 🌐✨")
+
 
 # Unleash logic_tinkerer
 logic_tinkerer = Abed()
