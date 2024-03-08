@@ -1,5 +1,7 @@
 ### 💻 About Me
 
+![](https://komarev.com/ghpvc/?username=logictinkerer&label=PROFILE+VIEWS)
+
 ```python
 class Abed:
     def __init__(self):
@@ -17,9 +19,6 @@ logic_tinkerer = Abed()
 logic_tinkerer.say_hello()
 
 ```
-![](https://komarev.com/ghpvc/?username=logictinkerer&label=PROFILE+VIEWS)
-
-
 ## 🌐 My Tech Arsenal 
 
 ### Programming Languages
