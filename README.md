@@ -18,7 +18,7 @@ class Abed:
     def showcase_projects(self):
         projects = [
             {'name': 'Arena', 'repo_suffix': 'Arena-Chat-App'},
-            {'name': 'Extremis', 'repo_suffix': 'Extremis'}
+            {'name': 'Stellar Stream', 'repo_suffix': 'Stellar-Stream'}
         ]
         print('\nHighlighted Projects:')
         for project in projects:
