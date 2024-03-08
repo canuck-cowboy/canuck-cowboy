@@ -26,11 +26,13 @@ logic_tinkerer.say_hello()
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Assembly x86](https://img.shields.io/badge/Assembly_x86-000000?style=for-the-badge&logo=assembly&logoColor=white)
 
-### GUI 
+### Graphics and User Interface
+![pyttsx3](https://img.shields.io/badge/pyttsx3-009688?style=for-the-badge&logo=python&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Turtle](https://img.shields.io/badge/Turtle-0089D6?style=for-the-badge&logo=python&logoColor=white)
-![pyttsx3](https://img.shields.io/badge/pyttsx3-009688?style=for-the-badge&logo=python&logoColor=white)
+![Kivy](https://img.shields.io/badge/Kivy-7A7A7A?style=for-the-badge&logo=kivy&logoColor=white)
+![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
 ### Machine Learning
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
