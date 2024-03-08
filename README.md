@@ -24,6 +24,7 @@ logic_tinkerer.say_hello()
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Assembly x86](https://img.shields.io/badge/Assembly_x86-000000?style=for-the-badge&logo=assembly&logoColor=white)
 
 ### Favourite Tools & Technologies
 ![Tkinter](https://img.shields.io/badge/Tkinter-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
