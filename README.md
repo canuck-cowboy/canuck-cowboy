@@ -47,7 +47,7 @@ logic_tinkerer.showcase_projects()
 ![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![pyttsx3](https://img.shields.io/badge/pyttsx3-009688?style=for-the-badge&logo=python&logoColor=white)
 
-### Data Science & Machine Learning
+### Machine Learning
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
