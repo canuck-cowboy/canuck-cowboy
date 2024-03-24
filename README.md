@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=logictinkerer&label=PROFILE+VIEWS)
 
 ```python
-class Abed:
+class Gareth:
     def __init__(self):
         self.everything = 'Computer Science'
         self.role = 'Computer Scientist'
@@ -26,7 +26,7 @@ class Abed:
 
 
 # Unleash logic_tinkerer
-logic_tinkerer = Abed()
+logic_tinkerer = Gareth()
 logic_tinkerer.say_hello()
 logic_tinkerer.showcase_projects()
 ```
