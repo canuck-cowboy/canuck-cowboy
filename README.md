@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=logictinkerer&label=PROFILE+VIEWS)
 
 ```python
-class Gareth:
+class Nassar:
     def __init__(self):
         self.everything = 'Computer Science'
         self.role = 'Computer Scientist'
@@ -11,22 +11,23 @@ class Gareth:
         self.github_url = 'https://github.com/logictinkerer/'
 
     def say_hello(self):
-        print(f'Greetings, fellow coders! I am a {self.role} dedicated to pushing the boundaries of {self.everything}.',
-              'My mission is to sculpt algorithms that not only solve problems',
-              'but also unlock new dimensions of understanding.')
+        print(f'Hey there, I’m a {self.role}, but let’s be honest, I’m basically the {self.role} of {self.everything}.',
+              f'\nI’m here to make sure the future of {self.everything} is as sharp as my code.',
+              f'So buckle up, because we’re about to redefine what’s possible.')
 
     def showcase_projects(self):
         projects = [
             {'name': 'Arena', 'repo_suffix': 'Arena-Chat-App'},
-            {'name': 'Stellar Stream', 'repo_suffix': 'Stellar-Stream'}
+            {'name': 'Stellar Stream', 'repo_suffix': 'Stellar-Stream'},
+            {'name': 'Extremis', 'repo_suffix': 'Extremis'}
         ]
-        print('\nHighlighted Projects:')
+        print('\nFew gems from my endless vault of brilliance:')
         for project in projects:
             print(f'- {project["name"]}: {self.github_url}{project["repo_suffix"]}')
 
 
-# Unleash logic_tinkerer
-logic_tinkerer = Gareth()
+# Activating logic_tinkerer
+logic_tinkerer = Nassar()
 logic_tinkerer.say_hello()
 logic_tinkerer.showcase_projects()
 ```
