@@ -31,7 +31,7 @@ logic_tinkerer = Nassar()
 logic_tinkerer.say_hello()
 logic_tinkerer.showcase_projects()
 ```
-## 🛠️ My Tech Arsenal 
+## 🛠️ Computational Core 
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
