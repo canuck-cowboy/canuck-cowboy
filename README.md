@@ -31,6 +31,15 @@ logic_tinkerer = Nassar()
 logic_tinkerer.say_hello()
 logic_tinkerer.showcase_projects()
 ```
+## 🐍 Pythonista
+
+<div style="display: flex; align-items: flex-start;">
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python Logo" width="65" height="65" />
+</div>
+
+As a proud Pythonista, I embrace the power and versatility of Python in my projects. From web development to machine learning, I love leveraging Python's capabilities to solve complex problems and build innovative solutions.
+
+
 ## 🛠️ Computational Core 
 
 ### Programming Languages
