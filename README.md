@@ -84,7 +84,8 @@ Python, my dear friend, is like a simple equation that unlocks the universe. It 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ## More About Me
-![Nassar's Terminal]([![terminal](https://github.com/user-attachments/assets/bd7dcdc1-f594-4bbe-8dd1-6aea59829cf1)](https://github.com/logictinkerer/logictinkerer/blob/main/terminal.gif))
+![Terminal Animation](https://github.com/logictinkerer/logictinkerer/blob/main/terminal.gif?raw=true)
+
 
 <!--
 **logictinkerer/logictinkerer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
