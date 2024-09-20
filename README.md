@@ -43,11 +43,13 @@ Python, my dear friend, is like a simple equation that unlocks the universe. It 
 ## 🛠️ Computational Core 
 
 ### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Assembly x86](https://img.shields.io/badge/Assembly_x86-000000?style=for-the-badge&logo=assembly&logoColor=white)
+<div style="display: flex; align-items: flex-start;">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="65" height="65" />
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" width="65" height="65" />
+    <img src="https://skillicons.dev/icons?i=csharp" alt="C#" width="65" height="65" />
+    <img src="https://skillicons.dev/icons?i=c" alt="C++" width="65" height="65" />
+    <img src="https://skillicons.dev/icons?i=assembly" alt="Assembly" width="65" height="65" />
+</div>
 
 ### Graphics and UI Development
 ![Tkinter](https://img.shields.io/badge/Tkinter-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
