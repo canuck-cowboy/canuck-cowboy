@@ -43,13 +43,7 @@ Python, my dear friend, is like a simple equation that unlocks the universe. It 
 ## 🛠️ Computational Core 
 
 ### Programming Languages
-<div style="display: flex; align-items: flex-start;">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="65" height="65" />
-    <img src="https://skillicons.dev/icons?i=java" alt="Java" width="65" height="65" />
-    <img src="https://skillicons.dev/icons?i=csharp" alt="C#" width="65" height="65" />
-    <img src="https://skillicons.dev/icons?i=c" alt="C++" width="65" height="65" />
-    <img src="https://skillicons.dev/icons?i=assembly" alt="Assembly" width="65" height="65" />
-</div>
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" /></div>
 
 ### Graphics and UI Development
 ![Tkinter](https://img.shields.io/badge/Tkinter-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
