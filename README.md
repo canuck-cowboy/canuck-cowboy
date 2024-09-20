@@ -31,7 +31,7 @@ logic_tinkerer = Nassar()
 logic_tinkerer.say_hello()
 logic_tinkerer.showcase_projects()
 ```
-## 🐍 Pythonista
+## 🐍 I am a Pythonista and a Pythoneer
 
 <div align="center">
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python Logo" width="65" height="65" />
