@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=logictinkerer&width=1050&height=100&bgColor=%230D1117)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=logictinkerer&width=1100&height=100&bgColor=%230D1117)](https://github.com/Akshay090/svg-banners)
 
 
 ### 💻 About Me
