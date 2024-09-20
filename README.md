@@ -51,7 +51,7 @@ Python, my dear friend, is like a simple equation that unlocks the universe. It 
     <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
     <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
     <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
-    <img src="https://skillicons.dev/icons?i=assembly" alt="Assembly" width="65" height="65" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/assembly/assembly-original.svg" alt="Assembly" width="65" height="65" />
 </div>
 
 
