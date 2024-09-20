@@ -33,7 +33,7 @@ logic_tinkerer.showcase_projects()
 ```
 ## 🐍 Pythonista
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100px;">
+<div align="center">
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python Logo" width="65" height="65" />
 </div>
 
