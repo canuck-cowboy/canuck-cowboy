@@ -87,7 +87,7 @@ Python, my dear friend, is like a simple equation that unlocks the universe. It 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ## A Glimpse Into My Universe
-![Terminal Animation](https://github.com/logictinkerer/logictinkerer/blob/main/computerscientist.gif?raw=true)
+![Terminal Animation](https://github.com/logictinkerer/logictinkerer/blob/main/terminal.gif?raw=true)
 
 
 <!--
