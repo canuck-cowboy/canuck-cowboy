@@ -1,4 +1,7 @@
-![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=logic_tinkerer&width=1100&height=100&bgColor=%230D1117)
+<div style="max-width: 100%; overflow: hidden;">
+    <img src="https://svg-banners.vercel.app/api?type=glitch&text1=logic_tinkerer&width=1000&height=100&bgColor=%230D1117" style="width: 100%; height: auto;" alt="Logic Tinkerer Banner" />
+</div>
+
 
 
 ### 💻 About Me
