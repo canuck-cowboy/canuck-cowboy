@@ -26,10 +26,10 @@ class Nassar:
             print(f'- {project["name"]}: {self.github_url}{project["repo_suffix"]}')
 
 
-# Activating logic_tinkerer
-logic_tinkerer = Nassar()
-logic_tinkerer.say_hello()
-logic_tinkerer.showcase_projects()
+# Activating The Canuck Cowboy
+canuck_cowboy = Nassar()
+canuck_cowboy.say_hello()
+canuck_cowboy.showcase_projects()
 ```
 ## 🐍 I am a Pythonista and a Pythoneer
 
