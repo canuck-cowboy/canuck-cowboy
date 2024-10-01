@@ -8,7 +8,7 @@ class Nassar:
         self.everything = 'Computer Science'
         self.role = 'Computer Scientist'
         self.passion = ['Complexity Theory', 'Algorithms', 'Computability Theory']
-        self.github_url = 'https://github.com/logictinkerer/'
+        self.github_url = 'https://github.com/canuck-cowboy/'
 
     def say_hello(self):
         print(f'Hey there, I’m a {self.role}, but let’s be honest, I’m basically the {self.role} of {self.everything}.',
