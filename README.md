@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=logictinkerer&label=PROFILE+VIEWS)
 
 ```python
-class Nassar:
+class Gareth:
     def __init__(self):
         self.everything = 'Computer Science'
         self.role = 'Computer Scientist'
@@ -27,7 +27,7 @@ class Nassar:
 
 
 # Activating The Canuck Cowboy
-canuck_cowboy = Nassar()
+canuck_cowboy = Gareth()
 canuck_cowboy.say_hello()
 canuck_cowboy.showcase_projects()
 ```
