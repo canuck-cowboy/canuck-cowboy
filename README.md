@@ -5,15 +5,16 @@
 ```python
 class Gareth:
     def __init__(self):
+        self.alias = 'Iron Canuck'
         self.everything = 'Computer Science'
         self.role = 'Computer Scientist'
-        self.passion = ['Complexity Theory', 'Algorithms', 'Computability Theory']
-        self.github_url = 'https://github.com/canuck-cowboy/'
+        self.passion = ['Artificial Intelligence',  'Algorithms',  'HCI', 'Computability Theory']
+        self.github_url = 'https://github.com/iron-canuck/'
 
     def say_hello(self):
-        print(f'Hey there, I’m a {self.role}, but let’s be honest, I’m basically the {self.role} of {self.everything}.',
-              f'\nI’m here to make sure the future of {self.everything} is as sharp as my code.',
-              f'So buckle up, because we’re about to redefine what’s possible.')
+        print(f"Hey there, I’m {self.alias}—basically the {self.role} of {self.everything}.",
+              f"\nI write code, I break limits, and occasionally, I save the day with a well-placed semicolon.",
+              f"\nStick around. It’s not every day you get to witness genius in action.")
 
     def showcase_projects(self):
         projects = [
@@ -26,10 +27,10 @@ class Gareth:
             print(f'- {project["name"]}: {self.github_url}{project["repo_suffix"]}')
 
 
-# Activating The Canuck Cowboy
-canuck_cowboy = Gareth()
-canuck_cowboy.say_hello()
-canuck_cowboy.showcase_projects()
+# Deploying The Iron Canuck
+iron_canuck = Gareth()
+iron_canuck.say_hello()
+iron_canuck.showcase_projects()
 ```
 ## 🐍 I am a Pythonista and a Pythoneer
 
