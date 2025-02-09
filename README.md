@@ -48,16 +48,8 @@ Python, my dear friend, is like a simple equation that unlocks the universe. It 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Assembly x86](https://img.shields.io/badge/Assembly_x86-000000?style=for-the-badge&logo=assembly&logoColor=white)
+![Assembly x86 (MASM)](https://img.shields.io/badge/x86_Assembly-(MASM)-000000?style=for-the-badge&logo=assembly&logoColor=white)
 
-
-### Graphics and UI Development
-![Tkinter](https://img.shields.io/badge/Tkinter-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
-![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Turtle](https://img.shields.io/badge/Turtle-0089D6?style=for-the-badge&logo=python&logoColor=white)
-![Kivy](https://img.shields.io/badge/Kivy-7A7A7A?style=for-the-badge&logo=kivy&logoColor=white)
-![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![pyttsx3](https://img.shields.io/badge/pyttsx3-009688?style=for-the-badge&logo=python&logoColor=white)
 
 ### Machine Learning
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
@@ -68,6 +60,16 @@ Python, my dear friend, is like a simple equation that unlocks the universe. It 
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NLTK](https://img.shields.io/badge/NTLK-000000?style=for-the-badge&logo=nltk&logoColor=white)
+
+
+### GUI Development
+![Tkinter](https://img.shields.io/badge/Tkinter-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Turtle](https://img.shields.io/badge/Turtle-0089D6?style=for-the-badge&logo=python&logoColor=white)
+![Kivy](https://img.shields.io/badge/Kivy-7A7A7A?style=for-the-badge&logo=kivy&logoColor=white)
+![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+
 
 ### Database Management
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -81,8 +83,10 @@ Python, my dear friend, is like a simple equation that unlocks the universe. It 
 ![Fritzing](https://img.shields.io/badge/Fritzing-7B0042?style=for-the-badge&logo=fritzing&logoColor=white)
 
 ### Web Development Frameworks
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
 
 
 
