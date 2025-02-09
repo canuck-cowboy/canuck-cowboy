@@ -48,7 +48,7 @@ Python, my dear friend, is like a simple equation that unlocks the universe. It 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Assembly x86 (MASM)](https://img.shields.io/badge/x86_Assembly-(MASM)-000000?style=for-the-badge&logo=assembly&logoColor=white)
+![Assembly x86 - MASM](https://img.shields.io/badge/x86_Assembly-MASM-000000?style=for-the-badge&logo=assembly&logoColor=white)
 
 
 ### Machine Learning
