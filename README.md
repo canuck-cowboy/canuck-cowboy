@@ -52,6 +52,7 @@ Python, my dear friend, is the art of folding complexity into clarity—where in
 
 
 ### Machine Learning
+![NLTK](https://img.shields.io/badge/NTLK-000000?style=for-the-badge&logo=nltk&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -60,15 +61,14 @@ Python, my dear friend, is the art of folding complexity into clarity—where in
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![NLTK](https://img.shields.io/badge/NTLK-000000?style=for-the-badge&logo=nltk&logoColor=white)
 
 
 ### GUI Development
 ![Tkinter](https://img.shields.io/badge/Tkinter-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Turtle](https://img.shields.io/badge/Turtle-0089D6?style=for-the-badge&logo=python&logoColor=white)
 ![Kivy](https://img.shields.io/badge/Kivy-7A7A7A?style=for-the-badge&logo=kivy&logoColor=white)
-![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
 
 ### Database Management
