@@ -4,17 +4,19 @@
 
 ```python
 class Gareth:
+
     def __init__(self):
         self.alias = 'Iron Canuck'
         self.everything = 'Computer Science'
         self.role = 'Computer Scientist'
-        self.passion = ['Artificial Intelligence',  'Algorithms',  'HCI', 'Computability Theory']
+        self.passion = ['Natural Language Processing', 'Speech Recognition', 'Computer Vision', 'Algorithms']
+        self.goal = 'AGI'
         self.github_url = 'https://github.com/iron-canuck/'
 
     def say_hello(self):
-        print(f"Hey there, I’m {self.alias}—basically the {self.role} of {self.everything}.",
-              f"\nI write code, I break limits, and occasionally, I save the day with a well-placed semicolon.",
-              f"\nStick around. It’s not every day you get to witness genius in action.")
+        print(f'Greetings, I am the {self.alias}, a {self.role} for whom {self.everything} is everything.',
+              f'\nI am drawn to {self.passion[0]} and wield {', '.join(self.passion[1:])} to pursue {self.goal}.',
+              f'\nCome along, for in this symphony of code and logic, we may unlock the secrets of a thinking machine!')
 
     def showcase_projects(self):
         projects = [
@@ -22,10 +24,9 @@ class Gareth:
             {'name': 'Stellar Stream', 'repo_suffix': 'Stellar-Stream'},
             {'name': 'Extremis', 'repo_suffix': 'Extremis'}
         ]
-        print('\nFew gems from my endless vault of brilliance:')
+        print('\nA few sparks from my humble explorations in the realm of computation:')
         for project in projects:
             print(f'- {project["name"]}: {self.github_url}{project["repo_suffix"]}')
-
 
 # Deploying The Iron Canuck
 iron_canuck = Gareth()
