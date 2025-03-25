@@ -6,17 +6,20 @@
 class Gareth:
 
     def __init__(self):
-        self.alias = 'Iron Canuck'
+        self.alias = 'Canuck Cowboy'
         self.everything = 'Computer Science'
         self.role = 'Computer Scientist'
-        self.passion = ['Natural Language Processing', 'Speech Recognition', 'Computer Vision', 'Algorithms']
+        self.passion = ['Natural Language Processing', 'Speech Recognition', 'Computer Vision']
         self.goal = 'AGI'
-        self.github_url = 'https://github.com/iron-canuck/'
+        self.github_url = 'https://github.com/canuck-cowboy/'
 
     def say_hello(self):
-        print(f'Greetings, I am the {self.alias}, a {self.role} for whom {self.everything} is everything.',
-              f'\nI am drawn to {self.passion[0]} and wield {', '.join(self.passion[1:])} to pursue {self.goal}.',
-              f'\nCome along, for in this symphony of code and logic, we may unlock the secrets of a thinking machine!')
+        print(f'Well, partner, you’ve stumbled upon the {self.alias}. I ain’t no ordinary Cowboy — '
+              f'I’m a {self.role}, and to me, {self.everything} is the whole dang world.\n'
+              f'Been rustling through the wild frontier of {self.passion[0]} and rounding up {", ".join(self.passion[1:])},\n'
+              f'all to wrangle {self.goal} for the betterment of Canada and to protect its people, cattle, '
+              f'and wildlife.\n')
+        print(f'If you got the grit to follow, saddle up.\nThis trail leads straight to the dawn of a thinking machine!')
 
     def showcase_projects(self):
         projects = [
@@ -24,14 +27,15 @@ class Gareth:
             {'name': 'Stellar Stream', 'repo_suffix': 'Stellar-Stream'},
             {'name': 'Extremis', 'repo_suffix': 'Extremis'}
         ]
-        print('\nA few sparks from my humble explorations in the realm of computation:')
+        print('\nA few rough shots fired from my trail through the wild frontier of computation:')
         for project in projects:
             print(f'- {project["name"]}: {self.github_url}{project["repo_suffix"]}')
 
-# Deploying The Iron Canuck
-iron_canuck = Gareth()
-iron_canuck.say_hello()
-iron_canuck.showcase_projects()
+
+# Deploying The Canuck Cowboy
+canuck_cowboy = Gareth()
+canuck_cowboy.say_hello()
+canuck_cowboy.showcase_projects()
 ```
 ## 🐍 I am a Pythonista and a Pythoneer
 
@@ -39,7 +43,7 @@ iron_canuck.showcase_projects()
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python Logo" width="65" height="65" />
 </div>
 
-Python, my dear friend, is the art of folding complexity into clarity—where indents carve logic and every line whispers: ‘Simplicity is the ultimate sophistication'.💻
+Python, partner, it’s the craft of turning chaos into order. You see, each indent carves a path, every line’s got a story to tell, and in the end, it’s all about simplicity—where the less you say, the more you mean💻
 
 
 ## 🛠️ Computational Core 
@@ -88,20 +92,3 @@ Python, my dear friend, is the art of folding complexity into clarity—where in
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-
-
-
-<!--
-**logictinkerer/logictinkerer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
