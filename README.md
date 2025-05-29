@@ -94,15 +94,20 @@ Python’s my trusted weapon in this digital range. Every line’s a connection 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-### 🌐 Network Administration & Infrastructure
+### Network Administration & Infrastructure
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Juniper](https://img.shields.io/badge/Juniper-003366?style=for-the-badge&logo=juniper&logoColor=white)
 ![F5 Networks](https://img.shields.io/badge/F5-FF0000?style=for-the-badge)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Load Balancing](https://img.shields.io/badge/Load_Balancing-4B9DEA?style=for-the-badge)
 
+### Network Configuration Tools
+![CMD](https://img.shields.io/badge/CMD-0078D6?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-012456?style=for-the-badge&logo=powershell&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
-### 🔒 Network Security
+### Network Security
 ![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
 ![Palo Alto Networks](https://img.shields.io/badge/Palo_Alto_Networks-FF6C00?style=for-the-badge)
 ![SonicWall](https://img.shields.io/badge/SonicWall-007ACC?style=for-the-badge&logo=firewall&logoColor=white)
@@ -111,14 +116,14 @@ Python’s my trusted weapon in this digital range. Every line’s a connection 
 ![WireGuard](https://img.shields.io/badge/WireGuard-8CC84B?style=for-the-badge)
 
 
-### 📡 Network Monitoring & Analysis
+### Network Monitoring & Analysis
 ![Wireshark](https://img.shields.io/badge/Wireshark-0062AC?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nagios](https://img.shields.io/badge/Nagios-6F0F3D?style=for-the-badge)
 ![Zabbix](https://img.shields.io/badge/Zabbix-EC1C24?style=for-the-badge)
 ![Nmap](https://img.shields.io/badge/Nmap-9B0000?style=for-the-badge)
 
 
-### 🧩 Protocols & DNS
+### Protocols & DNS
 ![DNS](https://img.shields.io/badge/DNS-Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![TCP](https://img.shields.io/badge/TCP-000000?style=for-the-badge)
 
