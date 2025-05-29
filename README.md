@@ -95,11 +95,9 @@ Python’s my trusted weapon in this digital range. Every line’s a connection 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### 🌐 Network & Security Tools
-![Cisco](https://img.shields.io/badge/Cisco-1BA0E2?style=for-the-badge&logo=cisco&logoColor=white)  
-![Wireshark](https://img.shields.io/badge/Wireshark-1177BB?style=for-the-badge&logo=wireshark&logoColor=white)  
-![Juniper](https://img.shields.io/badge/Juniper-FF0000?style=for-the-badge&logo=juniper&logoColor=white)  
-![OpenVPN](https://img.shields.io/badge/OpenVPN-4A90E2?style=for-the-badge&logo=openvpn&logoColor=white)  
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)  
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+### 🌐 Network & Security Tools
+
+![Cisco](https://img.shields.io/badge/Cisco-1BA0E2?style=for-the-badge&logo=cisco&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1177BB?style=for-the-badge&logo=wireshark&logoColor=white) ![Juniper](https://img.shields.io/badge/Juniper-FF0000?style=for-the-badge&logo=juniper&logoColor=white) ![OpenVPN](https://img.shields.io/badge/OpenVPN-4A90E2?style=for-the-badge&logo=openvpn&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 
 
