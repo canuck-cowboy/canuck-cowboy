@@ -9,11 +9,7 @@ class Gareth:
         self.alias = 'Canuck Cowboy'
         self.everything = 'Computer Networks'
         self.role = 'Network Administrator'
-        self.passion = [
-            'InterPlanetary Networks',
-            'Routing & Switching',
-            'Network Automation',
-        ]
+        self.passion = ['InterPlanetary Networks', 'Routing & Switching', 'Network Automation']
         self.goal = 'Universal Connectivity'
         self.github_url = 'https://github.com/canuck-cowboy/'
 
