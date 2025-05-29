@@ -7,19 +7,21 @@ class Gareth:
 
     def __init__(self):
         self.alias = 'Canuck Cowboy'
-        self.everything = 'Computer Science'
-        self.role = 'Computer Scientist'
-        self.passion = ['Natural Language Processing', 'Speech Recognition', 'Computer Vision']
-        self.goal = 'AGI'
+        self.everything = 'Computer Networks'
+        self.role = 'Network Administrator'
+        self.passion = [
+            'InterPlanetary Networks',
+            'Routing & Switching',
+            'Network Automation',
+        ]
+        self.goal = 'Universal Connectivity'
         self.github_url = 'https://github.com/canuck-cowboy/'
 
     def say_hello(self):
-        print(f'Well, partner, you’ve stumbled upon the {self.alias}. I ain’t no ordinary Cowboy — '
-              f'I’m a {self.role}, and to me, {self.everything} is the whole dang world.\n'
-              f'Been rustling through the wild frontier of {self.passion[0]} and rounding up {", ".join(self.passion[1:])},\n'
-              f'all to wrangle {self.goal} for the betterment of Canada and to protect its people, cattle, '
-              f'and wildlife.\n')
-        print(f'If you got the grit to follow, saddle up.\nThis trail leads straight to the dawn of a thinking machine!')
+        print(f'You’re standin’ at the gates of the {self.alias}. '
+              f'I’m a {self.role}, and to me, {self.everything} ain’t just a job — it’s everything.\n'
+              f'I’m here to see Canada reach farther than any frontier before — out into the stars themselves — '
+              f'by advancin’ {self.passion[0]} and buildin’ networks as strong as the land I stand on.')
 
     def showcase_projects(self):
         projects = [
@@ -27,7 +29,7 @@ class Gareth:
             {'name': 'Stellar Stream', 'repo_suffix': 'Stellar-Stream'},
             {'name': 'Extremis', 'repo_suffix': 'Extremis'}
         ]
-        print('\nA few rough shots fired from my trail through the wild frontier of computation:')
+        print('\nHere’s a few shots fired from this network frontier:')
         for project in projects:
             print(f'- {project["name"]}: {self.github_url}{project["repo_suffix"]}')
 
