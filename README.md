@@ -45,7 +45,7 @@ canuck_cowboy.showcase_projects()
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python Logo" width="65" height="65" />
 </div>
 
-Python, partner, it’s the craft of turning chaos into order. You see, each indent carves a path, every line’s got a story to tell, and in the end, it’s all about simplicity—where the less you say, the more you mean💻
+Python’s my trusted weapon in this digital range. Every line’s a connection forged, every command a step toward order out of chaos. Out here, it’s about keepin’ things simple and strong — code that runs smooth and means business 💻
 
 
 ## 🛠️ Computational Core 
