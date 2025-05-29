@@ -94,10 +94,33 @@ Python’s my trusted weapon in this digital range. Every line’s a connection 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-### 🌐 Network & Security Tools
-### 🌐 Network & Security Tools
+### 🌐 Network Administration & Infrastructure
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Juniper](https://img.shields.io/badge/Juniper-003366?style=for-the-badge&logo=juniper&logoColor=white)
+![F5 Networks](https://img.shields.io/badge/F5-FF0000?style=for-the-badge)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Load Balancing](https://img.shields.io/badge/Load_Balancing-4B9DEA?style=for-the-badge)
 
-![Cisco](https://img.shields.io/badge/Cisco-1BA0E2?style=for-the-badge&logo=cisco&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1177BB?style=for-the-badge&logo=wireshark&logoColor=white) ![Juniper](https://img.shields.io/badge/Juniper-FF0000?style=for-the-badge&logo=juniper&logoColor=white) ![OpenVPN](https://img.shields.io/badge/OpenVPN-4A90E2?style=for-the-badge&logo=openvpn&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### 🔒 Network Security
+![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+![Palo Alto Networks](https://img.shields.io/badge/Palo_Alto_Networks-FF6C00?style=for-the-badge)
+![SonicWall](https://img.shields.io/badge/SonicWall-007ACC?style=for-the-badge&logo=firewall&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-4B7BBF?style=for-the-badge)
+![OpenVPN](https://img.shields.io/badge/OpenVPN-005C85?style=for-the-badge)
+![WireGuard](https://img.shields.io/badge/WireGuard-8CC84B?style=for-the-badge)
+
+
+### 📡 Network Monitoring & Analysis
+![Wireshark](https://img.shields.io/badge/Wireshark-0062AC?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nagios](https://img.shields.io/badge/Nagios-6F0F3D?style=for-the-badge)
+![Zabbix](https://img.shields.io/badge/Zabbix-EC1C24?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-9B0000?style=for-the-badge)
+
+
+### 🧩 Protocols & DNS
+![DNS](https://img.shields.io/badge/DNS-Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![TCP](https://img.shields.io/badge/TCP-000000?style=for-the-badge)
 
 
 
