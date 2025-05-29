@@ -95,6 +95,7 @@ Python’s my trusted weapon in this digital range. Every line’s a connection 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### Network Administration & Infrastructure
+![SonicWall](https://img.shields.io/badge/SonicWall-005BAC?style=for-the-badge&logo=sonicwall&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Juniper](https://img.shields.io/badge/Juniper-003366?style=for-the-badge&logo=juniper&logoColor=white)
 ![F5 Networks](https://img.shields.io/badge/F5-FF0000?style=for-the-badge)
