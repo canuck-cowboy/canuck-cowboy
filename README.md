@@ -3,20 +3,20 @@
 ![](https://komarev.com/ghpvc/?username=logictinkerer&label=PROFILE+VIEWS)
 
 ```python
-class Gareth:
+class AbdulSalam:
 
     def __init__(self):
         self.alias = 'Canuck Cowboy'
-        self.everything = 'Computer Networks'
+        self.everything = 'Computer Networking'
         self.role = 'Network Administrator'
-        self.passion = ['InterPlanetary Networks', 'Routing & Switching', 'Network Automation']
+        self.passion = ['Network Security', 'Network Operations', 'Network Automation']
         self.goal = 'Universal Connectivity'
         self.github_url = 'https://github.com/canuck-cowboy/'
 
     def say_hello(self):
         print(f'You’re standin’ at the gates of the {self.alias}. '
-              f'I’m a {self.role}, and to me, {self.everything} ain’t just a job — it’s everything.\n'
-              f'I’m here to see Canada reach farther than any frontier before — out into the stars themselves — '
+              f'I’m a {self.role}, and to me, {self.everything} ain’t just a job: it’s everything.\n'
+              f'I’m here to see Canada reach farther than any frontier before, out into the stars themselves... '
               f'by advancin’ {self.passion[0]} and buildin’ networks as strong as the land I stand on.')
 
     def showcase_projects(self):
@@ -31,7 +31,7 @@ class Gareth:
 
 
 # Deploying The Canuck Cowboy
-canuck_cowboy = Gareth()
+canuck_cowboy = AbdulSalam()
 canuck_cowboy.say_hello()
 canuck_cowboy.showcase_projects()
 ```
@@ -41,7 +41,7 @@ canuck_cowboy.showcase_projects()
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python Logo" width="65" height="65" />
 </div>
 
-Python’s my trusted weapon in this digital range. Every line’s a connection forged, every command a step toward order out of chaos. Out here, it’s about keepin’ things simple and strong — code that runs smooth and means business 💻
+It’s a language for thinkers. When I write Python, I don’t feel like I’m programming—I feel like I’m expressing thoughts clearly, almost the same way I would write them on paper. That clarity is priceless 💻
 
 
 ## 🛠️ Computational Core 
