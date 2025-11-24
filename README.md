@@ -10,14 +10,13 @@ class AbdulSalam:
         self.everything = 'Computer Networking'
         self.role = 'Network Administrator'
         self.passion = ['Network Security', 'Network Operations', 'Network Automation']
-        self.goal = 'Universal Connectivity'
+        self.goal = 'Enhancing InterPlanetary Networks'
         self.github_url = 'https://github.com/canuck-cowboy/'
 
     def say_hello(self):
-        print(f'You’re standin’ at the gates of the {self.alias}. '
-              f'I’m a {self.role}, and to me, {self.everything} ain’t just a job: it’s everything.\n'
-              f'I’m here to see Canada reach farther than any frontier before, out into the stars themselves... '
-              f'by advancin’ {self.passion[0]} and buildin’ networks as strong as the land I stand on.')
+        print(f'I’m the {self.alias}. I build networks and redefine limits, by the will of Allah.\n'
+              f'{self.everything} is not a vocation. For me, it\'s everything.\n'
+              f'Python is my zulfiqar — the sword I wield to cut through any problem, fast and clean.')
 
     def showcase_projects(self):
         projects = [
